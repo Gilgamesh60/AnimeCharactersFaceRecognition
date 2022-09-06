@@ -7,6 +7,9 @@ i)Scrapping images of anime characters from google images.This dataset can be se
 ii)Face detection of anime characters and image cropping.This dataset can be seen [here](https://drive.google.com/drive/folders/1N0ChNf5IH-sYFwOgxc8U761lnAHBI9Y7?usp=sharing)
 
 
+
+
+
 Remaining modules:
 
 i)Image processing 
