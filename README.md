@@ -8,8 +8,6 @@ ii)Face detection of anime characters and image cropping.This dataset can be see
 
 
 
-
-
 Remaining modules are:
 
 i)Image processing 
