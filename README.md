@@ -12,3 +12,11 @@ ii)Face detection of anime characters and image cropping.This dataset can be see
 i)Image processing 
 ii)model building
 iii)model deployment
+
+
+You can see the scrapped images here:
+[IMAGES](https://drive.google.com/drive/folders/1j_ulqt8LN1cfhJ-D1br70mtMmkvOIF_x?usp=sharing)
+
+You can see the cropped images after face recognition:
+[CROPPED IMAGES](https://drive.google.com/drive/folders/1N0ChNf5IH-sYFwOgxc8U761lnAHBI9Y7?usp=sharing)
+
