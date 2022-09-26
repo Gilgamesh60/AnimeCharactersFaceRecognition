@@ -1,20 +1,14 @@
-# AnimeCharactersFaceRecognition-unfinished-
+#Cartoon character classification
+___________________________________
 
-I have managed to achieve almost 97% accuracy by using deep neural networks
-
- 
-Steps performed in this project:
-i)Scrapping images of anime characters from google images.
-ii)Face detection of anime characters and image cropping.
-iii)Model building using Alexnet CNN
+##Motivations
+   My main motivation behind this project is that there are thousands of cartoon\anime characters from various animes. It becomes extremely frustating to find the name of the character you see on twiiter/instagram. So right now I am doing this project on small scale for only 10 characters.One day I want to execute this on much bigger scale.
 
 
-You can see the scrapped images here:
-[IMAGES](https://drive.google.com/drive/folders/1j_ulqt8LN1cfhJ-D1br70mtMmkvOIF_x?usp=sharing)
+## Data preparation
+-I have prepared the Data for this project from Google Images. Inorder to achieve more accurate classification, Dataset can be prepared from own Images because Google Images are not always accurate, it might contains Duplicate Images, Misplaced or Misclassified Images and many more which will utlimately affect the accuracy of the Model. Despite of those challenges, this Model can still classify Images with High Accuracy.
+-To prepare the Data from Google Images, you will to go [Google Images](https://www.google.co.in/imghp?hl=en&tab=ri&ogbl) and search for the images you are interested in.The more specific you are in your Google Search, the better the results and the less manual pruning you will have to do. Then you should copy and paste the following Javascript.
+-For this I have made a web-scraper in python using selenium and collected the images of 10 different cartoon characters.
 
-You can see the cropped images after face recognition:
-[CROPPED IMAGES](https://drive.google.com/drive/folders/1N0ChNf5IH-sYFwOgxc8U761lnAHBI9Y7?usp=sharing)
 
-
- Now only part remaining is model deployment using Flask Server
-
+##Snapshot of input images
