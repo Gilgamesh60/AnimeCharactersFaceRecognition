@@ -1,7 +1,7 @@
-#Cartoon character classification
+# Cartoon character classification
 ___________________________________
 
-##Motivations
+## Motivations
    My main motivation behind this project is that there are thousands of cartoon\anime characters from various animes. It becomes extremely frustating to find the name of the character you see on twiiter/instagram. So right now I am doing this project on small scale for only 10 characters.One day I want to execute this on much bigger scale.
 
 
