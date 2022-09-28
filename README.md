@@ -12,4 +12,5 @@ ___________________________________
 
 
 ## Snapshot of input images
-![]("C:\Users\user\Downloads\Untitled document (4)-1.png")
+
+![Untitled document (4)-1](https://user-images.githubusercontent.com/104096164/192888515-5c4de528-98b9-4443-bfab-0c845cc019bf.png)
