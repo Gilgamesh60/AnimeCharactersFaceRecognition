@@ -12,6 +12,7 @@ ___________________________________
 
 
 ## Snapshot of input images
-<p float="left">
-  <img src=""C:\Users\user\Downloads\Images\marin.jpg"" width="100" />
-</p>
+
+![]("C:\Users\user\Downloads\Images\marin.jpg")        ![]("C:\Users\user\Downloads\Images\nami.jpg")
+ 
+marin kitagawa                                              nami
