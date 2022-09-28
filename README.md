@@ -12,10 +12,6 @@ ___________________________________
 
 
 ## Snapshot of input images
-'''html
 <p float="left">
   <img src=""C:\Users\user\Downloads\Images\marin.jpg"" width="100" />
-  <img src=""C:\Users\user\Downloads\Images\nami.jpg"" width="100" /> 
-  <img src=""C:\Users\user\Downloads\Images\rimuru.jpg"" width="100" />
 </p>
-'''
