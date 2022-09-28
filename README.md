@@ -12,7 +12,4 @@ ___________________________________
 
 
 ## Snapshot of input images
-
-![]("C:\Users\user\Downloads\Images\marin.jpg")        ![]("C:\Users\user\Downloads\Images\nami.jpg")
- 
-marin kitagawa                                              nami
+![ayanokoji](https://user-images.githubusercontent.com/104096164/192884259-a9b8ca1c-cfa5-4b60-935c-dbe29cff1f48.jpg)
