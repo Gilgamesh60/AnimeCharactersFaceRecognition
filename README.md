@@ -12,4 +12,4 @@ ___________________________________
 
 
 ## Snapshot of input images
-![ayanokoji](https://user-images.githubusercontent.com/104096164/192884259-a9b8ca1c-cfa5-4b60-935c-dbe29cff1f48.jpg)
+![]("C:\Users\user\Downloads\Untitled document (4)-1.png")
