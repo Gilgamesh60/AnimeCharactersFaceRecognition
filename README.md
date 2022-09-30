@@ -20,7 +20,7 @@ This includes-face detection and cropping the face out of original images
 
 
 ## Training the model
-I have implemented a CNN model in tensorflow and keras. It's giving me almost 80% accuracy. You can see the code template below
-![]("C:\Users\user\Downloads\Screenshot 2022-09-30 130706.png")
+I have implemented a CNN model in tensorflow and keras. It's giving me almost 80% accuracy. You can see the code template below.
+![Code_template]("C:\Users\user\Downloads\Screenshot 2022-09-30 130706.png")
 
 ## Model performance
