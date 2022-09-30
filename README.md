@@ -20,7 +20,8 @@ This includes-face detection and cropping the face out of original images
 
 ## Training the model 
 For this I have implemented two different models. One is a simple CNN model using TensorFlow & Keras. And second a SVM classifier. We will compare  these two models 7 choose the best one. I have included both code templates.
-![Screenshot 2022-09-30 130706](https://user-images.githubusercontent.com/104096164/193219818-5c529a0d-a12d-4591-b166-53cd085da197.png)
+![Screenshot 2022-09-30 133037](https://user-images.githubusercontent.com/104096164/193221783-a32e0183-f2ff-4847-96f8-0c50aa12771e.png)
+
 
 ## Model Performance
 Here I am showing the performande of my CNN model on each epoch.
